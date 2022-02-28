@@ -1,0 +1,16 @@
+body
+{
+	background-image:linear-gradient(90deg, hsla(312, 100%, 50%, 1) 0%, hsla(49, 94%, 67%, 1) 100%);
+	text-align: center;
+	color: #00BFB3;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: #DC0073;
+	border-radius: 20px;
+}
